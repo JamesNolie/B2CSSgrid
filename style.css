@@ -43,7 +43,7 @@ main {
 }
 .posttitle {
     background-color: lightblue;
-    padding: 30px 600px;
+    padding: 30px 300px;
     margin: 0;
     margin-top: 5px;
 }
@@ -67,6 +67,7 @@ main {
 }
 .img {
     background-color: yellow;
+    font-size: 25px;
 }
 .bar {
     display: grid;
